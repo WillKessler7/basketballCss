@@ -1,0 +1,10 @@
+body {background-color: powderblue;}
+h1.center {color: #3ba390; font-size: 55px;text-align: center;}
+h1 {color: #3ba390; font-size: 55px;}
+p {color: blue;margin-left:10px;}
+li {color: MediumSeaGreen; font-size: 25px;}
+table {font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%; background-color: #aaa0a0;}
+td, th {border-color:#dddddd; border-width: 2px; border-style:solid; text-align:left; padding: 6px;}
+tr:nth-child(even) {background-color: #dddddd;}
